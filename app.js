@@ -1,4 +1,4 @@
-const header = document.querySelector('header')
+const header = document.querySelector('.header')
 const slide = document.querySelectorAll('.slide-content')
 const circles = document.querySelectorAll('.circle')
 const btnLeft = document.querySelector('.left')
